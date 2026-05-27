@@ -1,0 +1,1 @@
+This project was made in my 11th Grade AI Principles class. We used Google Collab to analyze the datset and make visualizations. After making conclusions, slideshows were made with help from Notebook LM.
